@@ -1,0 +1,1 @@
+waybackurl | tee file_wayback | grep -E "\.(js|py|xml|xls|pptx|asp|txt|.bin|.cfg|.secret|.sql|.sqld|.backup|.config|.pdf)|[a-zA-Z0-9_\.+-]+(@|%40)(gmail|yahoo|hotmail|protonmail|outlook)\.(com|me)|ey?[a-zA-Z0-9_](==|%3D%3D|%3D)$" 
